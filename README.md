@@ -1,4 +1,4 @@
-![img](sed.gif)
+![img](https://github.com/makeittrue/makeittrue/blob/master/sed.gif)
 
 **始于好奇，忠于热爱。**
 
