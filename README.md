@@ -2,4 +2,4 @@
 
 **始于好奇，忠于热爱。**
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=makeittrue&hide=contribs,prs)
